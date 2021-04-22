@@ -23,14 +23,14 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - tracking time using Toggl
 - small team management, pull requeust codereviews of other team members
 
-## Came across these techs
+## Came across these
 
-- C
- 
- Test
- 
-- Java
-- Javascript, Vue.js
-- PHP, Laravel
+### C \[██████░░░░░░\]
+
+### Java
+
+### Javascript, Vue.js
+
+### PHP, Laravel
 
 ## Working 
