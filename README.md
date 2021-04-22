@@ -6,7 +6,7 @@ my name is Marek Mikula. I am a young developer based in Czech republic, Prague.
 
 ### JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - Now\]
 
-Development of very large internal systems for a large corporation used to manage internal data and information for the recruitment of new employees in the Czech Republic, Slovakia, Vietnam, India, Indonesia, Kazakhstan, China and the Philippines.
+Development of very large internal systems for the largest company in the Czech Republic that are used to manage internal data and information for the recruitment of new employees in the Czech Republic, Slovakia, Vietnam, India, Indonesia, Russia, Kazakhstan, China and the Philippines.
 
 Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 
