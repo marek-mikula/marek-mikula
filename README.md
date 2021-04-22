@@ -21,7 +21,7 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - API development, using Postman for testing
 - creating API documentation using Redoc tool and OpenAPI specification
 - tracking time using Toggl
-- small team management, pull requeust codereviews of other team members
+- small team management, pull request codereviews of other team members
 
 ## Came across these ✔
 
