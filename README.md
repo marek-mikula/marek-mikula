@@ -22,3 +22,15 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - creating API documentation using Redoc tool and OpenAPI specification
 - tracking time using Toggl
 - small team management, pull requeust codereviews of other team members
+
+## Came across these techs
+
+- C
+ 
+ Test
+ 
+- Java
+- Javascript, Vue.js
+- PHP, Laravel
+
+## Working 
