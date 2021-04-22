@@ -4,3 +4,4 @@ my name is Marek Mikula. I am a young developer based in Czech republic, Prague.
 
 ## References
 
+### JustItPro, full stack developer, full-time \[Jan 2019 - Now\]
