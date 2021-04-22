@@ -23,7 +23,7 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - tracking time using Toggl
 - small team management, pull requeust codereviews of other team members
 
-## Came across these
+## Came across these ✔
 
 - C
 - Java
@@ -34,7 +34,7 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - SQL
 - Git
 
-## Technologies I am interested in
+## Technologies I am interested in 💡
 
 - Go
 - Python
