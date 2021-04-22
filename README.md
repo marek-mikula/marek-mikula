@@ -1,3 +1,5 @@
+![Create!](https://media-exp1.licdn.com/dms/image/C4D16AQGIpIpgaUzR2Q/profile-displaybackgroundimage-shrink_350_1400/0/1606935443385?e=1624492800&v=beta&t=KlIODAAAGkm3_EQg3jxBr4vM8zJH9O7Ds3mL1AOZkJU)
+
 ## Hello 👋
 
 my name is Marek Mikula. I am a young developer based in Czech republic, Prague. Mostly I work with Laravel and Vue.js. I love listening to music, occasionally playing games (I am a really big WoW geek, Minecraft fan - but latelly I ain't got no time :() and of course programming. 
