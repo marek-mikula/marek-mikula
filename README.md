@@ -1,6 +1,6 @@
 ## Hello 👋
 
-my name is Marek Mikula. I am a young developer based in Czech republic, Prague. Mostly I work with Laravel and Vue.js. I love listening to music, occasionally playing games (I a really big WoW geek, Minecraft fan - but latelly I ain't got no time :() and of course programming. 
+my name is Marek Mikula. I am a young developer based in Czech republic, Prague. Mostly I work with Laravel and Vue.js. I love listening to music, occasionally playing games (I am a really big WoW geek, Minecraft fan - but latelly I ain't got no time :() and of course programming. 
 
 I don't really see programming as a work, maybe that's the case why I enjoy it that much.
 
