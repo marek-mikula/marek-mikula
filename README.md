@@ -25,12 +25,21 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 
 ## Came across these
 
-### C \[██████░░░░░░\]
+- C
+- Java
+- Javascript, jQuery, Vue.js
+- PHP, Laravel
+- HTML
+- CSS, Sass
+- SQL
+- Git
 
-### Java
+## Technologies I am interested in
 
-### Javascript, Vue.js
-
-### PHP, Laravel
-
-## Working 
+- Go
+- Python
+- Serverless
+- Realtime applications
+- Game dev
+- Docker
+- Kubernetes
