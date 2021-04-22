@@ -1,8 +1,10 @@
 ## Hello 👋
 
-my name is Marek Mikula. I am a young developer based in Czech republic, Prague. Mostly I work with Laravel and Vue.js.
+my name is Marek Mikula. I am a young developer based in Czech republic, Prague. Mostly I work with Laravel and Vue.js. I love listening to music, occasionally playing games (I a really big WoW geek, Minecraft fan - but latelly I ain't got no time :() and of course programming. 
 
-## References
+I don't really see programming as a work, maybe that's the case why I enjoy it that much.
+
+## References 💻
 
 ### JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - Now\]
 
