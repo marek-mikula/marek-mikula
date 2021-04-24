@@ -44,3 +44,9 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - Docker
 - Kubernetes
 - Node.js
+
+## Get in touch 📩
+
+[LinkedIn](https://www.linkedin.com/in/marek-mikula/)
+[Instagram](https://www.instagram.com/susboycore/)
+[Email](mailto:marek.mikula01@gmail.com)
