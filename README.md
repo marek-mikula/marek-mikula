@@ -43,3 +43,4 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - Game dev
 - Docker
 - Kubernetes
+- Node.js
