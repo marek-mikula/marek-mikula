@@ -6,7 +6,7 @@ I don't really see programming as a work, maybe that's the case why I enjoy it t
 
 ## References 💻
 
-### JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - Now\]
+### JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - May 2021\]
 
 Development of very large internal systems for the largest company in the Czech Republic that are used to manage internal data and information for the recruitment of new employees in the Czech Republic, Slovakia, Vietnam, India, Indonesia, Russia, Kazakhstan, China and the Philippines.
 
@@ -22,6 +22,14 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - creating API documentation using Redoc tool and OpenAPI specification
 - tracking time using Toggl
 - small team management, pull request codereviews of other team members
+
+### DaMi development s.r.o., full stack developer, full-time/part-time \[June 2021 - Now\]
+
+Large IoT portal for managing devices across the Czech republic. [Tanix](https://tanix.cz/)
+
+- InfluxDB / Chronograf
+
+Mostly backend, PHP 7.4 + Yii2, partly Vue.js frontend
 
 ## Came across these ✔
 
