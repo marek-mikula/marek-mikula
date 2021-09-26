@@ -33,6 +33,7 @@ Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** frontend
 - version control using **Git** + **GitLab**
 - sprint planning using **YouTrack**
 - writing tests using **Cypress** and **PHPUnit**
+- rendering graphs using **Highcharts** library
 
 ## Came across these ✔
 
