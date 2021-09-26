@@ -25,16 +25,14 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 
 ### [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Now\]
 
-Large IoT portal for managing sensors across the Czech republic. [Tanix](https://tanix.cz/)
+Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads / hr. [Tanix](https://tanix.cz/)
 
-Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads / hr.
+Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** frontend
 
 - **InfluxDB** / **Chronograf**
 - version control using **Git** + **GitLab**
 - sprint planning using **YouTrack**
 - writing tests using **Cypress** and **PHPUnit**
-
-Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** frontend
 
 ## Came across these ✔
 
