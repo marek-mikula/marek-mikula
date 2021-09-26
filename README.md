@@ -4,7 +4,7 @@ my name is Marek Mikula. I am a young developer based in Czech republic, Prague.
 
 I don't really see programming as a work, maybe that's the case why I enjoy it that much.
 
-## References 💻
+## Working experience 💻
 
 ### JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - May 2021\]
 
@@ -23,13 +23,18 @@ Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
 - tracking time using Toggl
 - small team management, pull request codereviews of other team members
 
-### DaMi development s.r.o., full stack developer, full-time/part-time \[June 2021 - Now\]
+### [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Now\]
 
-Large IoT portal for managing devices across the Czech republic. [Tanix](https://tanix.cz/)
+Large IoT portal for managing sensors across the Czech republic. [Tanix](https://tanix.cz/)
 
-- InfluxDB / Chronograf
+Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads / hr.
 
-Mostly backend, PHP 7.4 + Yii2, partly Vue.js frontend
+- **InfluxDB** / **Chronograf**
+- version control using **Git** + **GitLab**
+- sprint planning using **YouTrack**
+- writing tests using **Cypress** and **PHPUnit**
+
+Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** frontend
 
 ## Came across these ✔
 
