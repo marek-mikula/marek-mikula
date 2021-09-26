@@ -10,22 +10,22 @@ I don't really see programming as a work, maybe that's the case why I enjoy it t
 
 Development of very large internal systems for the largest company in the Czech Republic that are used to manage internal data and information for the recruitment of new employees in the Czech Republic, Slovakia, Vietnam, India, Indonesia, Russia, Kazakhstan, China and the Philippines.
 
-Mostly backend, PHP 7.4 + Laravel 6+, partly Vue.js frontend
+Mostly backend, **PHP 7.4** + **Laravel 6+**, partly **Vue.js** frontend
 
-- sprint planning, analysis and design of application architecture, product planning together with product owner using Jira
-- application management and deployment on AWS cloud (Europe, Singapur, Bombay), automatic deployment using Bitbucket pipelines
-- version control using Git + Bitbucket
-- communication using Slack, integration between application and Slack (error logs, warnings) along with connection to Sentry
-- API implementation (SAP, LMC, Znanja, OpenText ...)
-- SSO implementation using SAML 2.0
-- API development, using Postman for testing
-- creating API documentation using Redoc tool and OpenAPI specification
-- tracking time using Toggl
+- sprint planning, analysis and design of application architecture, product planning together with product owner using **Jira**
+- application management and deployment on **AWS cloud** (Europe, Singapur, Bombay), writing schemas for automatic deployment using **Bitbucket pipelines**
+- version control using **Git** + **Bitbucket**
+- communication using **Slack**, integration between application and Slack (error logs, warnings) along with connection to **Sentry**
+- API implementation (**SAP**, **LMC**, Znanja, OpenText ...)
+- **SSO** implementation using **SAML 2.0**
+- **API development**, using **Postman** for testing
+- creating API documentation using **Redoc** tool and **OpenAPI 2.0** specification
+- tracking time using **Toggl**
 - small team management, pull request codereviews of other team members
 
 ### [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Now\]
 
-Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads / hr. [Tanix](https://tanix.cz/)
+Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads/hour. [Tanix](https://tanix.cz/)
 
 Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** frontend
 
