@@ -39,7 +39,7 @@ Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** frontend
 
 - C
 - Java
-- Javascript, jQuery, Vue.js
+- Javascript, jQuery, Vue.js, Typescript
 - PHP, Laravel
 - HTML
 - CSS, Sass
