@@ -4,7 +4,7 @@ my name is Marek Mikula. I am a young web developer based in Czech republic, Pra
 
 I became interested in web development when I was in 7th grade in elementary school. Those were the times when I was writting ugly ass static pages where I centered everything using the <center> tag and put a huge image of a Counter-Strike logo in the background (a little bit of a nostalgia isn't it?). During the study on a high school I became familiar with dynamic pages built with Laravel and JS + jQuery. I started working immediatelly after high school and this led me to my current path of a fullstack programmer interested in everything around web dev and partly in other areas like DevOps, project management and so on.
 
-In my work I am highly focusing on writting clean readable and well documented code implementing design patterns and valid standards. What I like about programming is that I create something complex and interesting that is able to solve human problems and maximize performance in companies. I don't really see programming as a work, maybe that's the case why I enjoy it that much.
+In my work I am highly focusing on writting clean readable typed and well documented code implementing design patterns and valid standards. What I like about programming is that I create something complex and interesting that is able to solve human problems and maximize performance in companies. I don't really see programming as a work, maybe that's the case why I enjoy it that much.
 
 ## Working experience 💻
 
