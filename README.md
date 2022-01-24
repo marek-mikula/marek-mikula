@@ -37,6 +37,7 @@ Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** frontend
 - writing tests using **Cypress** and **PHPUnit**
 - rendering graphs with **Highcharts** library
 - code style & standards checking with **PHPCS** and static analysis using **PHPStan**
+- handling async jobs using RabbitMq
 
 ## Working with 💪
 
@@ -53,6 +54,7 @@ Technologies I am using on daily basis with advanced knowledge.
 - Cypress, PHPUnit, Codeception
 - PHPCS, PHPStan
 - Markdown
+- RabbitMQ
 
 ## Came across these ✔
 
