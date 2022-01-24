@@ -44,7 +44,7 @@ Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** frontend
 Technologies I am using on daily basis with advanced knowledge.
   
 - PHP 8.0+, Laravel 8+, Yii2
-- JS ES6, jQuery, Vue.js, Typescript
+- JS ES6, jQuery, Vue.js
 - Webpack bundler / Laravel Mix
 - HTML
 - CSS, Sass, Less, PostCSS, Bootstrap
