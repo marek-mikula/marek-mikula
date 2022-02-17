@@ -52,7 +52,7 @@ Technologies I am using on daily basis with advanced knowledge.
 - Git
 - Bash
 - Cypress, PHPUnit, Codeception
-- PHPCS, PHPStan
+- PHPCS, PHPStan, PHPLint and other static analysis tools
 - Markdown
 - RabbitMQ
 
