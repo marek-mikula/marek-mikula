@@ -47,7 +47,7 @@ Technologies I am using on daily basis with advanced knowledge.
 - JS ES6, jQuery, Vue.js
 - Webpack bundler / Laravel Mix
 - HTML
-- CSS, Sass, Less, PostCSS, Bootstrap
+- CSS, Sass, Less, PostCSS, Bootstrap, TailwindCSS
 - SQL, Phpmyadmin, Adminer
 - Git
 - Bash
