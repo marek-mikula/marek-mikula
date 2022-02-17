@@ -64,6 +64,7 @@ Technologies I learned in school or used in a side project with common or interm
 - Java
 - Typescript
 - Docker (Sail in Laravel)
+- Firebase messaging
 
 ## Technologies I am interested in 💡
 
