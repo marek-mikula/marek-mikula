@@ -29,7 +29,7 @@ Mostly backend, **PHP 7.4** + **Laravel 6+**, partly **Vue.js** + **jQuery** fro
 
 Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads/hour. [Tanix](https://tanix.cz/)
 
-Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** frontend
+Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** + **Typescript** frontend
 
 - storing payload data from sensors in **InfluxDB**(+ **Chronograf**)
 - version control using **Git** + **GitLab** with standardized Git flow, codereviews etc.
@@ -63,6 +63,7 @@ Technologies I learned in school or used in a side project with common or interm
 - C
 - Java
 - Typescript
+- Docker (Sail in Laravel)
 
 ## Technologies I am interested in 💡
 
