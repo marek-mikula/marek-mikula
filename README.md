@@ -25,7 +25,7 @@ Mostly backend, **PHP 7.4** + **Laravel 6+**, partly **Vue.js** + **jQuery** fro
 - tracking time using **Toggl**
 - small team management, pull request codereviews of other team members
 
-### [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time (because of school 📚) \[June 2021 - Sept 2022\]
+### [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Sept 2022\]
 
 Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads/hour. [Tanix](https://tanix.cz/)
 
@@ -41,7 +41,7 @@ Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** + **Types
 
 ### JustItPro s.r.o., full stack developer, full-time/part-time \[Jan 2022 - Now\]
 
-Development of an application used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process. Also development of a small micro-service for fetching translations from Google Docs sheet and tiny node.js script which handles the connection to this micro-service.
+Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process. Also development of a small micro-service for fetching translations from Google Docs sheet and tiny node.js script which handles the connection to this micro-service.
 
 Backend - **PHP 8.1** + **Laravel 9** | Frontend - **Vue.js** + **Nuxt.js**, **Typescript**
 
@@ -49,10 +49,12 @@ Backend - **PHP 8.1** + **Laravel 9** | Frontend - **Vue.js** + **Nuxt.js**, **T
 - **CI/CD** using Bitbucket pipelines
 - using standardized Git flow along with daily code reviews
 - version control using Git
-- communication via Slack
-- writing automated unit and feature tests using PHP Pest and PHPUnit
-- code style and code quality checking with Laravel Pint and PHP Insights
-- tracking time using Toggl
+- communication via **Slack**
+- writing automated unit and feature tests using **PHP Pest** and **PHPUnit**
+- code style and code quality checking with **Laravel Pint** and **PHP Insights**
+- tracking time using **Toggl**
+- frontend tests using **Jest**
+- implementing big 3rd party APIs for digital signature (FPT, AdobeSign, DigiSign)
 
 ## Working with 💪
 
@@ -67,7 +69,7 @@ Technologies I am using on daily basis with advanced knowledge.
 - Git
 - Bash
 - Cypress, PHPUnit, PHP Pest, Jest
-- PHPCS, PHPStan, PHPLint and other static analysis tools
+- PHPCS, PHPStan, PHPLint, Laravel Pint and other static & code analysis tools
 - Markdown
 
 ## Came across these ✔
