@@ -93,7 +93,7 @@ Technologies I learned in school or used in a side project with common or interm
 - Docker, Kubernetes
 - Node.js
 - SPA and PWA applications
-- WEB 3.0
+- WEB 3.0, Blockchain, Cryptocurrencies
 
 ## Get in touch 📩
 
