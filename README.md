@@ -62,16 +62,17 @@ Frontend - **Vue.js** + **Nuxt.js**, **Typescript**
 Technologies I am using on daily basis with advanced knowledge.
   
 - PHP 8.0+, Laravel 9, Yii2
-- JS ES6, jQuery, Vue.js, Nuxt.js
+- JS ES6, jQuery, Vue.js, Nuxt.js, Typescript
 - Webpack bundler / Laravel Mix
 - HTML
-- CSS, Sass, Less, PostCSS, Bootstrap, TailwindCSS, Bootstrap
+- CSS, Sass, Less, PostCSS, Bootstrap, TailwindCSS
 - SQL, Phpmyadmin, Adminer
 - Git
 - Bash
 - Cypress, PHPUnit, PHP Pest, Jest
 - PHPCS, PHPStan, PHPLint, Laravel Pint and other static & code analysis tools
 - Markdown
+- Docker (mostly via Sail in Laravel)
 
 ## Came across these ✔
 
@@ -79,8 +80,6 @@ Technologies I learned in school or used in a side project with common or interm
   
 - C
 - Java
-- Typescript
-- Docker (mostly Sail in Laravel)
 - Firebase messaging
 - RabbitMQ
 
