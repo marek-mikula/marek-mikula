@@ -43,7 +43,7 @@ Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** + **Types
 
 Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process. Also development of a small micro-service for fetching translations from Google Docs sheet and tiny node.js script which handles the connection to this micro-service.
 
-Backend - **PHP 8.1** + **Laravel 9**
+Backend - **PHP 8.1** + **Laravel 10**
 Frontend - **Vue.js** + **Nuxt.js**, **Typescript**
 
 - 10 day sprints, **Jira**
@@ -57,16 +57,17 @@ Frontend - **Vue.js** + **Nuxt.js**, **Typescript**
 - frontend tests using **Jest**
 - implementing big 3rd party APIs for digital signature (FPT, AdobeSign, DigiSign)
 
-## Working with 💪
+## Working/Worked with 💪
 
-Technologies I am using on daily basis with advanced knowledge.
+Technologies I am using/used on daily basis with advanced knowledge.
   
-- PHP 8.0+, Laravel 9, Yii2
+- PHP 8.0+, Laravel 10, Yii2
 - JS ES6, jQuery, Vue.js, Nuxt.js, Typescript
 - Webpack bundler / Laravel Mix
 - HTML
 - CSS, Sass, Less, PostCSS, Bootstrap, TailwindCSS
-- SQL, Phpmyadmin, Adminer
+- SQL (MariaDB), Phpmyadmin, Adminer
+- Redis
 - Git
 - Bash
 - Cypress, PHPUnit, PHP Pest, Jest
