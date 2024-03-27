@@ -1,4 +1,4 @@
-## Hello 👋
+## 👋 Hello
 
 my name is Marek Mikula. I am a young web developer based in Czech republic, Prague. Mostly I work with Laravel and Vue.js. I love listening to music, occasionally playing games (I am a really big WoW geek, Minecraft fan - but lately I ain't got no time) and of course programming. 
 
@@ -6,7 +6,7 @@ I became interested in web development when I was in 7th grade in elementary sch
 
 In my work I am highly focusing on writting **clean readable typed and well documented code** implementing **design patterns and valid standards**. What I like about programming is that I create something complex and interesting that is able to solve human problems and maximize performance in companies. I don't really see programming as a work, maybe that's the case why I enjoy it that much.
 
-## Working experience 💻
+## 💻 Working experience
 
 ### 👉 JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - May 2021\]
 
@@ -59,11 +59,11 @@ Frontend - **Vue.js 3** + **Nuxt.js 3** + **Typescript**
 - frontend tests using **Jest**
 - implementing big 3rd party APIs for digital signature (FPT, AdobeSign, DigiSign)
 
-## Working/Worked with 💪
+## 💪 Working/Worked with
 
 Technologies I am using/used on daily basis with advanced knowledge.
   
-- PHP 8.0+, Laravel 10, Yii2
+- PHP 8.0+, Laravel 10+, Yii2
 - JS ES6, jQuery, Vue.js, Nuxt.js, Typescript
 - Webpack bundler / Laravel Mix
 - HTML
@@ -77,7 +77,7 @@ Technologies I am using/used on daily basis with advanced knowledge.
 - Markdown
 - Docker (mostly via Sail in Laravel)
 
-## Came across these ✔
+## 👨‍🦯 Came across these
 
 Technologies I learned in school or used in a side project with common or intermediate knowledge.
   
@@ -86,7 +86,7 @@ Technologies I learned in school or used in a side project with common or interm
 - Firebase messaging
 - RabbitMQ
 
-## Technologies I am interested in 💡
+## 💡 Technologies I am interested in
 
 - Go
 - Python
@@ -97,8 +97,9 @@ Technologies I learned in school or used in a side project with common or interm
 - Node.js
 - SPA and PWA applications
 - WEB 3.0, Blockchain, Cryptocurrencies
+- mobile dev - Flutter
 
-## Get in touch 📩
+## 📩 Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/marek-mikula/)<br/>
 [Instagram](https://www.instagram.com/susboycore/)<br/>
