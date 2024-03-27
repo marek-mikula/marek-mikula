@@ -8,7 +8,7 @@ In my work I am highly focusing on writting **clean readable typed and well docu
 
 ## Working experience 💻
 
-### JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - May 2021\]
+### 👉 JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - May 2021\]
 
 Development of large internal systems for the largest company in the Czech Republic that are used to manage internal data and information for the recruitment of new employees in the Czech Republic, Slovakia, Vietnam, India, Indonesia, Russia, Kazakhstan, China and the Philippines.
 
@@ -25,7 +25,7 @@ Mostly backend, **PHP 7.4** + **Laravel 6+**, partly **Vue.js** + **jQuery** fro
 - tracking time using **Toggl**
 - small team management, pull request codereviews of other team members
 
-### [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Sept 2022\]
+### 👉 [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Sept 2022\]
 
 Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads/hour. [Tanix](https://tanix.cz/)
 
@@ -39,7 +39,7 @@ Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** + **Types
 - code style & standards checking with **PHPCS** and static analysis using **PHPStan**
 - handling async jobs using RabbitMq
 
-### JustItPro s.r.o., full stack developer, full-time/part-time \[Jan 2022 - Now\]
+### 👉 JustItPro s.r.o., full stack developer, full-time/part-time \[Jan 2022 - Now\]
 
 Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process. Also development of a small micro-service for fetching translations from Google Docs sheet and tiny node.js script which handles the connection to this micro-service.
 
