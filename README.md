@@ -43,6 +43,8 @@ Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** + **Types
 
 Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process. Also development of a small micro-service for fetching translations from Google Docs sheet and tiny node.js script which handles the connection to this micro-service.
 
+Rewriting very large legacy Laravel project to new separate BE API written in Laravel 11 and FE written in Nuxt 3.
+
 Backend - **PHP 8.0+**, **Laravel 10+**<br>
 Frontend - **Vue.js 3** + **Nuxt.js 3** + **Typescript**
 
