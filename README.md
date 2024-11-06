@@ -83,7 +83,7 @@ Technologies I learned in school or used in a side project with common or interm
   
 - C
 - Java
-- Firebase messaging
+- Firebase
 - RabbitMQ
 
 ## 💡 Technologies I am interested in
