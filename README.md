@@ -1,4 +1,4 @@
-## 👋 Howdy Partner!
+## 🤠 Howdy Partner!
 
 my name is Marek Mikula. I am a web developer based in Czech republic, Prague. I mostly work with Laravel on BE and Vue.js (Nuxt) on the FE. Currently I am learning Flutter to become at least a little bit fluent in mobile development.
 
