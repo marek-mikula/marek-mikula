@@ -10,37 +10,6 @@ What I like about programming is that I get to create something complex and inte
 
 ## 💻 Working experience
 
-### 👉 JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - May 2021\]
-
-Development of large internal systems for the largest company in the Czech Republic that are used to manage internal data and information for the recruitment of new employees in the Czech Republic, Slovakia, Vietnam, India, Indonesia, Russia, Kazakhstan, China and the Philippines.
-
-Mostly backend, **PHP 7.4** + **Laravel 6+**, partly **Vue.js** + **jQuery** frontend
-
-- sprint planning, analysis and design of application architecture, product planning together with product owner using **Jira**
-- application management and deployment on **AWS cloud** (Europe, Singapur, Bombay), writing schemas for automatic deployment using **Bitbucket pipelines**
-- version control using **Git** + **Bitbucket** with standardized Git flow, codereviews etc.
-- communication using **Slack**, integration between application and Slack (error logs, warnings) along with connection to **Sentry**
-- API implementation (**SAP**, **LMC**, Znanja, OpenText ...)
-- **SSO** implementation using **SAML 2.0**
-- **API development**, using **Postman** for testing
-- creating API documentation using **Redoc** tool and **OpenAPI 2.0** specification
-- tracking time using **Toggl**
-- small team management, pull request codereviews of other team members
-
-### 👉 [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Sept 2022\]
-
-Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads/hour. [Tanix](https://tanix.cz/)
-
-Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** + **Typescript** frontend
-
-- storing payload data from sensors in **InfluxDB**(+ **Chronograf**)
-- version control using **Git** + **GitLab** with standardized Git flow, codereviews etc.
-- sprint planning using **YouTrack**
-- writing tests using **Cypress** and **PHPUnit**
-- rendering graphs with **Highcharts** library
-- code style & standards checking with **PHPCS** and static analysis using **PHPStan**
-- handling async jobs using RabbitMq
-
 ### 👉 JustItPro s.r.o., full stack developer, full-time/part-time \[Jan 2022 - Now\]
 
 Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process. Also development of a small micro-service for fetching translations from Google Docs sheet and tiny node.js script which handles the connection to this micro-service.
@@ -60,6 +29,37 @@ Frontend - **Vue.js 3** + **Nuxt.js 3** + **Typescript**
 - tracking time using **Toggl**
 - frontend tests using **Jest**
 - implementing big 3rd party APIs for digital signature (FPT, AdobeSign, DigiSign)
+
+### 👉 [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Sept 2022\]
+
+Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads/hour. [Tanix](https://tanix.cz/)
+
+Mostly backend, **PHP 8.0** + **Yii2**, partly **Vue.js** + **jQuery** + **Typescript** frontend
+
+- storing payload data from sensors in **InfluxDB**(+ **Chronograf**)
+- version control using **Git** + **GitLab** with standardized Git flow, codereviews etc.
+- sprint planning using **YouTrack**
+- writing tests using **Cypress** and **PHPUnit**
+- rendering graphs with **Highcharts** library
+- code style & standards checking with **PHPCS** and static analysis using **PHPStan**
+- handling async jobs using RabbitMq
+
+### 👉 JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - May 2021\]
+
+Development of large internal systems for the largest company in the Czech Republic that are used to manage internal data and information for the recruitment of new employees in the Czech Republic, Slovakia, Vietnam, India, Indonesia, Russia, Kazakhstan, China and the Philippines.
+
+Mostly backend, **PHP 7.4** + **Laravel 6+**, partly **Vue.js** + **jQuery** frontend
+
+- sprint planning, analysis and design of application architecture, product planning together with product owner using **Jira**
+- application management and deployment on **AWS cloud** (Europe, Singapur, Bombay), writing schemas for automatic deployment using **Bitbucket pipelines**
+- version control using **Git** + **Bitbucket** with standardized Git flow, codereviews etc.
+- communication using **Slack**, integration between application and Slack (error logs, warnings) along with connection to **Sentry**
+- API implementation (**SAP**, **LMC**, Znanja, OpenText ...)
+- **SSO** implementation using **SAML 2.0**
+- **API development**, using **Postman** for testing
+- creating API documentation using **Redoc** tool and **OpenAPI 2.0** specification
+- tracking time using **Toggl**
+- small team management, pull request codereviews of other team members
 
 ## 💪 Working/Worked with
 
