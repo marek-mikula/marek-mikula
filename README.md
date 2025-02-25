@@ -2,9 +2,11 @@
 
 my name is Marek Mikula. I am a web developer based in Czech republic, Prague. I mostly work with Laravel on BE and Vue.js (Nuxt) on the FE. Currently I am learning Flutter to become at least a little bit fluent in mobile development.
 
-In my work I am highly focusing on writting *clean readable typed and well documented code* and implementing *design patterns* and *valid standards*. I'm a *perfectionist* and a *workaholic* and I have a solid *process-centered thinking*.
+In my work I am highly focusing on writting *clean readable typed and well documented code* and implementing *design patterns* and *valid standards*. I'm a *perfectionist* and a *workaholic* and I have a solid *process-centered and user-centered thinking*.
 
 What I like about programming is that I get to create something complex and interesting that is able to solve human problems and maximize performance in companies. I love programming and I don't see it as work at all. Maybe that's why I enjoy it so much.
+
+Programming for me is **not** about writing a code. It's about solving problems - human problems - and out-of-the-box thinking. Programming language is just the tool.
 
 ## 🧙 About me
 
