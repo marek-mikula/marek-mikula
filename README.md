@@ -12,23 +12,23 @@ What I like about programming is that I get to create something complex and inte
 
 ### 👉 JustItPro s.r.o., full stack developer, full-time/part-time \[Jan 2022 - Now\]
 
-Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process. Also development of a small micro-service for fetching translations from Google Docs sheet and tiny node.js script which handles the connection to this micro-service.
+Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process.
 
-Rewriting very large legacy Laravel project to new separate BE API written in Laravel 11 and FE written in Nuxt 3 + Typescript + Tailwind CSS.
+Rewriting very large legacy Laravel project to a new separate BE API written in Laravel 11 and FE written in Nuxt 3 + Typescript + TailwindCSS.
 
-Backend - **PHP 8.3+**, **Laravel 11+**<br>
+Backend - **PHP 8.3+**, **Laravel 11+**, **Node.js**<br>
 Frontend - **Vue.js 3** + **Nuxt.js 3** + **Typescript**
 
 - 10 day sprints, **Jira**
 - **CI/CD** using Bitbucket pipelines
-- using standardized Git flow along with daily code reviews
-- version control using Git
+- version control using Git, standardized Git flow along with daily code reviews
 - communication via **Slack**
 - writing automated unit and feature tests using **PHP Pest** and **PHPUnit**
 - code style and code quality checking with **Laravel Pint** and **PHP Insights**
 - tracking time using **Toggl**
 - frontend tests using **Jest**
 - implementing big 3rd party APIs for digital signature (FPT, AdobeSign, DigiSign)
+- FE components using **Typescript** + **Tailwind CSS**
 
 ### 👉 [DaMi development s.r.o.](https://www.damidev.com/), full stack developer, full-time/part-time \[June 2021 - Sept 2022\]
 
@@ -63,21 +63,22 @@ Mostly backend, **PHP 7.4** + **Laravel 6+**, partly **Vue.js** + **jQuery** fro
 
 ## 💪 Working/Worked with
 
-Technologies I am using/used on daily basis with advanced knowledge.
+Technologies/tools I am using/used on daily basis with advanced knowledge.
   
-- PHP 8.0+, Laravel 10+, Yii2
+- PHP 8.3+, Laravel 11+, Yii2
 - JS ES6, jQuery, Vue.js, Nuxt.js, Typescript
-- Webpack bundler / Laravel Mix
+- Webpack, Laravel Mix, Vite
 - HTML
 - CSS, Sass, Less, PostCSS, Bootstrap, TailwindCSS
-- SQL (MariaDB), Phpmyadmin, Adminer
+- SQL (MariaDB, MySQL), Phpmyadmin, Adminer
 - Redis
-- Git
+- Git, GitHub, GitLab, Bitbucket
 - Bash
-- Cypress, PHPUnit, PHP Pest, Jest
+- Cypress, Playwright, PHPUnit, PHP Pest, Jest
 - PHPCS, PHPStan, PHPLint, Laravel Pint and other static & code analysis tools
 - Markdown
 - Docker (mostly via Sail in Laravel)
+- Jira, YouTrack, Linear
 
 ## 👨‍🦯 Came across these
 
@@ -100,6 +101,7 @@ Technologies I learned in school or used in a side project with common or interm
 - Node.js
 - SPA and PWA applications
 - WEB 3.0, Blockchain, Cryptocurrencies
+- AI, LLMs, ChatGPT wrappers
 
 ## 📩 Get in touch
 
