@@ -34,7 +34,7 @@ Frontend - **Vue.js 3**, **Nuxt.js 3**, **Typescript**
 
 Development of very large IoT portal connecting thousands of active sensor all across the Czech republic working on NB-IoT, Lora, Sigfox and other networks. Processing more than 15000+ data payloads/hour. [Tanix](https://tanix.cz/)
 
-Backend - **PHP 8.0**, **Yii2**
+Backend - **PHP 8.0**, **Yii2**<br>
 Frontend **Vue.js**, **jQuery**, **Typescript**
 
 - storing payload data from sensors in **InfluxDB**(+ **Chronograf**)
@@ -49,7 +49,7 @@ Frontend **Vue.js**, **jQuery**, **Typescript**
 
 Development of large internal systems for the largest company in the Czech Republic that are used to manage internal data and information for the recruitment of new employees in the Czech Republic, Slovakia, Vietnam, India, Indonesia, Russia, Kazakhstan, China and the Philippines.
 
-Backend - **PHP 7.4**, **Laravel 6+**
+Backend - **PHP 7.4**, **Laravel 6+**<br>
 Frontend - **Vue.js**, **jQuery**
 
 - sprint planning, analysis and design of application architecture, product planning together with product owner using **Jira**
