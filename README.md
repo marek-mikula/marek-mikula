@@ -6,7 +6,7 @@ In my work I am highly focusing on writting *clean readable typed and well docum
 
 What I like about programming is that I get to create something complex and interesting that is able to solve human problems and maximize performance in companies. I love programming and I don't see it as work at all. Maybe that's why I enjoy it so much.
 
-Programming for me is **not** about writing a code. It's about solving problems - human problems - and out-of-the-box thinking. Programming language is just the tool.
+Programming for me is **not** about writing a code. It's about solving problems - human problems. Programming language is just the tool.
 
 ## 🧙 About me
 
