@@ -14,7 +14,7 @@ I became interested in web development when I was in 7th grade in elementary sch
 
 ## 💻 Working experience
 
-### 👉 JustItPro s.r.o., full stack developer, full-time/part-time \[Jan 2022 - Now\]
+### 👉 JustItPro s.r.o., full stack developer, full-time \[Jan 2022 - Now\]
 
 Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process.
 
