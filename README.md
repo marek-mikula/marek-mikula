@@ -1,8 +1,8 @@
 ## 🤠 Howdy Partner!
 
-my name is Marek Mikula. I am a web developer based in Czech republic, Prague. I mostly work with Laravel on BE and Vue.js (Nuxt) on the FE. Currently I am learning Flutter to become at least a little bit fluent in mobile development.
+my name is Marek Mikula. I am a web developer based in Czech republic, Prague. Currently, my main stack consists of Laravel, Nuxt (Vue.js), TypeScript and TailwindCSS. But I also tackled some other technologies like Flutter, Java or Node.js (details below).
 
-In my work I am highly focusing on writting *clean readable typed and well documented code* and implementing *design patterns* and *valid standards*. I'm a *perfectionist* and a *workaholic* and I have a solid *process-centered and user-centered thinking*.
+In my work I am highly focusing on writing *clean readable typed and well documented code* and implementing *design patterns* and *valid standards*. I'm a *perfectionist* and a *workaholic* and I have a solid *process-centered and user-centered thinking*.
 
 What I like about programming is that I get to create something complex and interesting that is able to solve human problems and maximize performance in companies. I love programming and I don't see it as work at all. Maybe that's why I enjoy it so much.
 
@@ -10,7 +10,7 @@ Programming for me is *not* about writing code. It's about solving problems - hu
 
 ## 🧙 About me
 
-I became interested in web development when I was in 7th grade in elementary school. Those were the times when I was writting ugly ass static pages where I centered everything using the \<center\> tag and put a huge image of a Counter-Strike logo in the background (a little bit of a nostalgia isn't it?). During the study on a high school I became familiar with dynamic pages built with Laravel and JS + jQuery. I started working immediatelly after high school and this led me to my current path of a fullstack programmer interested in everything around web dev and partly in other areas like DevOps, project management and so on.
+I became interested in web development when I was in 7th grade in elementary school. Those were the times when I was writing ugly ass static pages where I centered everything using the \<center\> tag and put a huge image of a Counter-Strike logo in the background (a little bit of a nostalgia isn't it?). During the study on a high school I became familiar with dynamic pages built with Laravel and JS + jQuery. I started working immediatelly after high school and this led me to my current path of a fullstack programmer interested in everything around web dev and partly in other areas like DevOps, project management and so on.
 
 ## 💻 Working experience
 
