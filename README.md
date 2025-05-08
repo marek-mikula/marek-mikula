@@ -47,7 +47,7 @@ Frontend **Vue.js**, **jQuery**, **Typescript**
 - writing tests using **Cypress** and **PHPUnit**
 - rendering graphs with **Highcharts** library
 - code style & standards checking with **PHPCS** and static analysis using **PHPStan**
-- handling async jobs using RabbitMq
+- handling async messages using RabbitMq
 
 ### 👉 JustItPro s.r.o., full stack developer, full-time \[Jan 2019 - May 2021\]
 
