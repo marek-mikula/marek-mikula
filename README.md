@@ -10,7 +10,7 @@ Programming for me is *not* about writing code. It's about solving problems - hu
 
 ## 🧙 About me
 
-I became interested in web development when I was in 7th grade in elementary school. Those were the times when I was writing ugly ass static pages where I centered everything using the `\<center\>` tag and put a huge image of a Counter-Strike logo in the background (a little bit of a nostalgia isn't it?). During the study on a high school I became familiar with dynamic pages built with Laravel and JS + jQuery. I started working immediatelly after high school and this led me to my current path of a fullstack programmer interested in everything around web dev and partly in other areas like DevOps, project management and so on.
+I became interested in web development when I was in 7th grade in elementary school. Those were the times when I was writing ugly ass static pages where I centered everything using the `<center>` tag and put a huge image of a Counter-Strike logo in the background (a little bit of a nostalgia isn't it?). During the study on a high school I became familiar with dynamic pages built with Laravel and JS + jQuery. I started working immediatelly after high school and this led me to my current path of a fullstack programmer interested in everything around web dev and partly in other areas like DevOps, project management and so on.
 
 ## 💻 Working experience
 
