@@ -10,7 +10,7 @@ Programming for me is *not* about writing code. It's about solving problems - hu
 
 ## 🧙 About me
 
-I became interested in web development when I was in 7th grade in elementary school. Those were the times when I was writing ugly ass static pages where I centered everything using the \<center\> tag and put a huge image of a Counter-Strike logo in the background (a little bit of a nostalgia isn't it?). During the study on a high school I became familiar with dynamic pages built with Laravel and JS + jQuery. I started working immediatelly after high school and this led me to my current path of a fullstack programmer interested in everything around web dev and partly in other areas like DevOps, project management and so on.
+I became interested in web development when I was in 7th grade in elementary school. Those were the times when I was writing ugly ass static pages where I centered everything using the `\<center\>` tag and put a huge image of a Counter-Strike logo in the background (a little bit of a nostalgia isn't it?). During the study on a high school I became familiar with dynamic pages built with Laravel and JS + jQuery. I started working immediatelly after high school and this led me to my current path of a fullstack programmer interested in everything around web dev and partly in other areas like DevOps, project management and so on.
 
 ## 💻 Working experience
 
@@ -18,7 +18,7 @@ I became interested in web development when I was in 7th grade in elementary sch
 
 Development of an application (standalone BE API and FE with SSR) used for hiring new employees for company in Indonesia, Vietnam and Philippines. Application connects multiple 3rd party APIs, collects lots of user data for further processing and allows users to digitally sign various contracts needed for the hiring process.
 
-Rewriting very large legacy Laravel project to a new separate BE API written in Laravel 11 and FE written in Nuxt 3 + Typescript + TailwindCSS.
+Rewriting large legacy Laravel project to a new separate BE API written in Laravel 11 and FE written in Nuxt 3 + Typescript + TailwindCSS.
 
 Backend - **PHP 8.3+**, **Laravel 11+**, **Node.js**<br>
 Frontend - **Vue.js 3**, **Nuxt.js 3**, **Typescript**
@@ -96,19 +96,18 @@ Technologies I learned in school or used in a side project with common or interm
 - Firebase
 - RabbitMQ
 - Flutter
+- Node.js (AdonisJS)
 
 ## 💡 Technologies I am interested in
 
+Other technologies that interest me but I haven't had time to get to them.
+
 - Go
 - Python
-- Serverless
 - Realtime applications
 - Game dev
-- Docker, Kubernetes
-- Node.js
-- SPA and PWA applications
+- Kubernetes
 - WEB 3.0, Blockchain, Cryptocurrencies
-- AI, LLMs, ChatGPT wrappers
 
 ## 📩 Get in touch
 
