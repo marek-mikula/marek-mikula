@@ -96,7 +96,7 @@ Technologies I learned in school or used in a side project with common or interm
 - Firebase
 - RabbitMQ
 - Flutter
-- Node.js (AdonisJS)
+- Node.js (AdonisJS/NestJS)
 
 ## 💡 Technologies I am interested in
 
