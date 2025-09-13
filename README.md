@@ -28,7 +28,7 @@ Frontend - **Vue.js 3**, **Nuxt.js 3**, **Typescript**
 - version control using Git, standardized Git flow along with daily code reviews
 - communication via **Slack**
 - writing automated unit and feature tests using **PHP Pest** and **PHPUnit**
-- code style and code quality checking with **Laravel Pint**, **PHP Insights** and **PHP CodeSniffer**
+- code style and code quality checking with **Laravel Pint**, **PHP Insights**, **Rector** and **PHP CodeSniffer**
 - tracking time using **Toggl**
 - frontend tests using **Jest**
 - implementing big 3rd party APIs for digital signature (FPT, AdobeSign, DigiSign)
